@@ -1,4 +1,4 @@
-var name = prompt("Enter YOUr name")
+var name = prompt("Enter Your name")
 
 document.write(name + " is my name")
-console.log("THanks")
+console.log("Thanks")
